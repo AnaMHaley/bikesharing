@@ -27,7 +27,7 @@ Checkout Times by Gender: The majority of users are males and tend to have longe
 
 
 
-Trips by Weekday for Each Hour: The majority of activity is during a typical work week (Monday-Friday) at about 8am and  from 5pm to 7pm. Saturdays between 11am to 6pm are also very popular
+Trips by Weekday for Each Hour: The majority of activity is during a typical work week (Monday-Friday) at approximately 8am and also from approximately 5pm to 7pm. Saturdays between the hours of 11am to 6pm are very popular as well
 
 
 ![Trips by Weekday for Each Hour](https://user-images.githubusercontent.com/101373142/174463843-fe397ae1-27ba-4b22-a03a-fd22fc31441b.png)
