@@ -6,7 +6,7 @@ Evaluate and visualize the Citi bike data for New York City. Analyze bike trips 
 
 
 # Results
-Citi bike Customers Overview: 2,344,224 trips in August (majority- annual subscribers): Male(65%) and Female(25%)
+Citi bike Customer Overview: 2,344,224 trips in August.  The majority of the customers are annual subscribers: Male(65%) and Female(25%)
 
 
 # Visualizations
